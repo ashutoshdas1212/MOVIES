@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Favourite-Movie/static/css/main.5125f232.css",
+    "main.js": "/Favourite-Movie/static/js/main.fe7f704b.js",
+    "index.html": "/Favourite-Movie/index.html",
+    "main.5125f232.css.map": "/Favourite-Movie/static/css/main.5125f232.css.map",
+    "main.fe7f704b.js.map": "/Favourite-Movie/static/js/main.fe7f704b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5125f232.css",
+    "static/js/main.fe7f704b.js"
+  ]
+}
